@@ -15,5 +15,6 @@
     "--background-index",
     "--query-driver=**",
     "--compile-commands-dir=/Users/danny/Desktop/IDEs/Money_Bot/Money_Bot/build"
-  ]
+  ],
+  "idf.flashType": "UART"
 }
